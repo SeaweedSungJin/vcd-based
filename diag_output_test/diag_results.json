@@ -1,0 +1,30 @@
+{
+  "rows": [
+    {
+      "layer": 16,
+      "cos_ablation_true": 0.16797474026679993,
+      "cos_attn_true": 0.02186601050198078,
+      "auc_dtrue": NaN,
+      "auc_ablation": NaN,
+      "auc_attn": NaN,
+      "per_cos_mean": 0.09810788929462433,
+      "per_cos_std": 0.06202515959739685,
+      "per_cos_pos_frac": 0.8181818181818182
+    },
+    {
+      "layer": 30,
+      "cos_ablation_true": 0.13770237565040588,
+      "cos_attn_true": 0.07100194692611694,
+      "auc_dtrue": NaN,
+      "auc_ablation": NaN,
+      "auc_attn": NaN,
+      "per_cos_mean": 0.05601568520069122,
+      "per_cos_std": 0.06705085188150406,
+      "per_cos_pos_frac": 0.9090909090909091
+    }
+  ],
+  "n_hall": 5,
+  "n_faith": 30,
+  "n_images": 5,
+  "n_img_tokens": 576
+}
