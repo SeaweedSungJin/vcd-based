@@ -1,0 +1,10 @@
+{
+  "mode": "epp_b1",
+  "task": "pope",
+  "accuracy": 0.8353,
+  "f1": 0.8209,
+  "precision": 0.8998,
+  "recall": 0.7547,
+  "yes_ratio": 0.4193,
+  "n": 3000
+}

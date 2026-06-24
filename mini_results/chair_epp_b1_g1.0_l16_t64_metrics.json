@@ -1,0 +1,10 @@
+{
+  "mode": "epp_b1",
+  "task": "chair",
+  "n_captions": 100,
+  "CHAIR_s": 0.3,
+  "CHAIR_i": 0.1467,
+  "Recall": 0.6194,
+  "avg_len": 49.3,
+  "max_new_tokens": 64
+}

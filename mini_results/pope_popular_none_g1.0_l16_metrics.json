@@ -1,0 +1,10 @@
+{
+  "mode": "none",
+  "task": "pope",
+  "accuracy": 0.866,
+  "f1": 0.8521,
+  "precision": 0.9507,
+  "recall": 0.772,
+  "yes_ratio": 0.406,
+  "n": 500
+}

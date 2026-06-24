@@ -1,0 +1,10 @@
+{
+  "mode": "ablation",
+  "task": "pope",
+  "accuracy": 0.854,
+  "f1": 0.8367,
+  "precision": 0.9492,
+  "recall": 0.748,
+  "yes_ratio": 0.394,
+  "n": 500
+}

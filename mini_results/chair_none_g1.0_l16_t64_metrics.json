@@ -1,0 +1,10 @@
+{
+  "mode": "none",
+  "task": "chair",
+  "n_captions": 100,
+  "CHAIR_s": 0.28,
+  "CHAIR_i": 0.1488,
+  "Recall": 0.5903,
+  "avg_len": 49.6,
+  "max_new_tokens": 64
+}

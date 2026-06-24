@@ -68,6 +68,7 @@ class LlavaLlamaForCausalLM(LlamaForCausalLM, LlavaMetaForCausalLM):
         images_cd: Optional[torch.FloatTensor] = None,
         cd_beta: Optional[torch.FloatTensor] = None,
         cd_alpha: Optional[torch.FloatTensor] = None,
+        proj_layer: Optional[int] = None,
         return_dict: Optional[bool] = None,
     ) -> Union[Tuple, CausalLMOutputWithPast]:
         output_attentions = output_attentions if output_attentions is not None else self.config.output_attentions

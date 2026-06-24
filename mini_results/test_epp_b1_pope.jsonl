@@ -1,0 +1,5 @@
+{"question_id": 1, "prompt": "Is there a snowboard in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 2, "prompt": "Is there a dining table in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 3, "prompt": "Is there a person in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 4, "prompt": "Is there a car in the image?", "text": "No", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}
+{"question_id": 5, "prompt": "Is there a skis in the image?", "text": "Yes", "model_id": "llava-v1.5-7b", "image": "COCO_val2014_000000310196.jpg", "metadata": {}}

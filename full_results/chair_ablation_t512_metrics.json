@@ -1,0 +1,10 @@
+{
+  "mode": "ablation",
+  "task": "chair",
+  "n_captions": 500,
+  "CHAIR_s": 0.514,
+  "CHAIR_i": 0.2771,
+  "Recall": 0.7878,
+  "avg_len": 90.0,
+  "max_new_tokens": 512
+}
